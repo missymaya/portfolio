@@ -1,0 +1,16 @@
+* {
+    background-color: rgb(114, 9, 61);
+    color: #dfdfdf;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+    font-size :100px;
+    text-decoration: solid 2px underline;
+}
+
+h2{font-size: 67px;     
+;text-decoration-line: underline
+;border-color:rgb(143, 182, 189);
+}
+
+h3{ font-family: Arial ; }
